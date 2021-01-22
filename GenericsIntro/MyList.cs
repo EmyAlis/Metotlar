@@ -10,6 +10,8 @@ namespace GenericsIntro
         public void Add(T item)
         {
             Console.WriteLine("hello");
+            Console.WriteLine("mello");
+            Console.WriteLine("sello");
         
         }
 
